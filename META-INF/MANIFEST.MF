@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Oxygen Library Contributor Plugin
-Bundle-SymbolicName: com.oxygenxml.aditional.lib.support;singleton:=true
+Bundle-SymbolicName: com.oxygenxml.additional.lib.support;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime
