@@ -11,3 +11,8 @@ How to install it
 1. Restart Eclipse
 1. Open in the Author page a document that contains a CGM image. The image should be rendered.
 
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/oxygenxml.cgm.support.eclipse/blob/master/LICENSE)
